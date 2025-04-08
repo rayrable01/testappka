@@ -1,0 +1,15 @@
+.playlists-title {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.playlist-div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.playlist-div a {
+    color: cornflowerblue;
+    cursor: pointer;
+}
